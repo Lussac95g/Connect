@@ -23,6 +23,7 @@ public class Ejercicio_4 {
          System.out.println("*****los resultados son*****");
          for(e=1;e<10;e++){
          System.out.println("Los numeros son= "+ Math.round(Math.pow(num1, e)));
+             System.out.println("Finalizado");
          
          }
 
